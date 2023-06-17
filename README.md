@@ -13,7 +13,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone this repository:
 
      ```bash
-   git clone https://github.com/your-username/react-vite-project.git```
+   git clone https://github.com/your-username/react-vite-project.git
 ```cd react-vite-project```
 ```npm install```
 Development
